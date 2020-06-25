@@ -20,7 +20,7 @@ using namespace il2cpp_utils;
 
 void log(std::string str) {
     Logger::get().info(str);
-}
+}//
 
 class CustomButton {
     public:
