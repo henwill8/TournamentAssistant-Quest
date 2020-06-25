@@ -45,3 +45,4 @@ ndkpath.txt
 *.zip
 extern/BeatSaberQuestCustomUI/
 Android.mk
+.vscode/c_cpp_properties.json
