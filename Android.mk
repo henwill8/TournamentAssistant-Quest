@@ -37,11 +37,11 @@ LOCAL_EXPORT_C_INCLUDES := ./extern/beatsaber-hook/shared/
 include $(PREBUILT_SHARED_LIBRARY)
 
 # Build the CustomUI shared library
-include $(CLEAR_VARS)
-LOCAL_MODULE	        := CustomUI_2019_2_1f1_0_1_3
-LOCAL_SRC_FILES         := ./extern/BeatSaberQuestCustomUI/libs/arm64-v8a/libcustomui_2019_2_1f1_0_1_3.so
-LOCAL_EXPORT_C_INCLUDES := ./extern/BeatSaberQuestCustomUI/shared
-include $(PREBUILT_SHARED_LIBRARY)
+# include $(CLEAR_VARS)
+# LOCAL_MODULE	        := CustomUI_2019_2_1f1_0_1_3
+# LOCAL_SRC_FILES         := ./extern/BeatSaberQuestCustomUI/libs/arm64-v8a/libcustomui_2019_2_1f1_0_1_3.so
+# LOCAL_EXPORT_C_INCLUDES := ./extern/BeatSaberQuestCustomUI/shared
+# include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 # Include the two libraries

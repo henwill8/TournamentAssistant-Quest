@@ -44,3 +44,4 @@ out/
 ndkpath.txt
 *.zip
 extern/BeatSaberQuestCustomUI/
+Android.mk
