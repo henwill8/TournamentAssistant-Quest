@@ -1,4 +1,4 @@
-# Replay
+# Tournament Assistant Quest
 
 ## Credits
 
